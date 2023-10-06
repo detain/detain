@@ -120,7 +120,7 @@ jobs:
   "hide": "button, footer, a"
 }
 
-          plugin_skyline_year: current-year
+          plugin_skyline_year: 2023
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
