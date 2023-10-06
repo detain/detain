@@ -5,4 +5,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=detain&theme=tokyonight_duo&border_radius=4.5)](https://git.io/streak-stats)
 
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
