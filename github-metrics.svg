@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    45.6m added, 40.4m removed
+                                    47.8m added, 42.2m removed
                                 </div>
                             </section>
                             <section>
@@ -3912,7 +3912,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bump-sh/cli</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bump.sh CLI - Deploy your OpenAPI &amp; AsyncAPI documentations from your CI</div>
@@ -4893,7 +4893,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 328k out of 65m repositories</span>
+                                    <span class="gh">ranked 328k out of 69.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 37 times</div>
                             </div>
@@ -5090,7 +5090,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 785k out of 65m repositories</span>
+                                    <span class="gh">ranked 785k out of 69.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 33 stars</div>
                             </div>
@@ -5284,10 +5284,10 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">e6778a60</span>
-                            <span class="code">vite.config.ts</span>
+                            <span class="code">public/templates/adminlte/js/jquery.passwordRequirements.js</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--2</span>
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -5295,7 +5295,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -28,9 +28,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}),<br /></span><span class="token prefix unchanged">·</span><span class="token line">// https://github.com/feat-agency/vite-plugin-webfont-dl#options<br /></span><span class="token prefix unchanged">·</span><span class="token line">//webfontDownload(),<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">inject({<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/* inject({<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    jQuery: 'jquery',<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">}),<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">}), */<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">/*<br /></span><span class="token prefix unchanged">·</span><span class="token line">checker({<br /></span><span class="token prefix unchanged">·</span><span class="token line">    vueTsc: true,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -122,7 +122,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">                   checkCompleted();<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">                   if ($('#password').val() == $('#password2').val()) {<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">                   if ($('#password').val() === $('#password2').val()) {<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">                       $('.pr-matchPassUI span').addClass('pr-ok');<br /></span><span class="token prefix unchanged">·</span><span class="token line">                       matchPassDone = true;<br /></span><span class="token prefix unchanged">·</span><span class="token line">                   } else $('.pr-matchPassUI span').removeClass('pr-ok');</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -5317,7 +5317,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jan 2024, 03:11:27 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Jan 2024, 04:09:25 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
