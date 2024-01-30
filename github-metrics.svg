@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2740" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2714" class="columns">
     <defs>
         <style/>
     </defs>
@@ -37,7 +37,7 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            22191 Commits
+                            22192 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    41.8m added, 38.8m removed
+                                    41.6m added, 38.3m removed
                                 </div>
                             </section>
                             <section>
@@ -391,14 +391,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.71416013819996" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="184.71416013819996" y="0" width="100.28922711039921" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="285.0033872485992" y="0" width="68.78531003038307" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="353.7886972789823" y="0" width="46.21551742647161" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="400.0042147054539" y="0" width="38.205788030478274" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="438.2100027359321" y="0" width="8.255106761505406" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.46510949743754" y="0" width="7.037911108626982" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.5030206060646" y="0" width="6.4969793939354865" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.7140538126974" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="184.7140538126974" y="0" width="100.289434167772" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="285.00348798046934" y="0" width="68.78527043605713" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="353.7887584165265" y="0" width="46.21549082381096" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="400.00424924033746" y="0" width="38.20576603839271" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="438.21001527873017" y="0" width="8.255102009685759" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.46511728841597" y="0" width="7.037907057451721" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.5030243458677" y="0" width="6.496975654132329" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -566,12 +566,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 38 commits)</small>
+                    <small class="h-details">(computed from last 39 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.5 characters per line of code written</li>
+                        <li>Has approximately 31.6 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -642,8 +642,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -718,8 +718,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 28.125px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">10</span>
+                                <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -749,22 +749,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 0.7560330764470946%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8097363235197672%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 0.22325976761483315%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.22310846556715583%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.17200752532923316%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.1718909566743597%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 0.12163032132655804%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.12154789305534303%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -4416,6 +4416,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">detain/datacentered</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8c4d380</div>
+                                        <div class="message">fix typo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">interserver/vps_host_server</span>
                                     </div>
                                 </div>
@@ -4484,26 +4504,6 @@
                                     <div class="commit">
                                         <div class="sha">#62d2e5b</div>
                                         <div class="message">fixing bug in queue handling i had a hardcoded ip in there</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">detain/datacentered</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#82034d2</div>
-                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -4913,7 +4913,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 330k out of 184m repositories</span>
+                                    <span class="gh">ranked 330k out of 186m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 37 times</div>
                             </div>
@@ -5110,7 +5110,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 776k out of 184m repositories</span>
+                                    <span class="gh">ranked 776k out of 186m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 34 stars</div>
                             </div>
@@ -5287,7 +5287,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 30 Jan 2024, 10:58:12
+                            On 30 Jan 2024, 10:03:00
                         </div>
                     </section>
                 </div>
@@ -5297,14 +5297,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fixing bug in queue handling i had a hardcoded ip in there
+                            fixes for the new queue handling
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">62d2e5b2</span>
-                            <span class="code">Web/queue.php</span>
+                            <span class="code">4226a99a</span>
+                            <span class="code">Applications/Chat/start_web.php</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -5315,7 +5315,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -48,7 +48,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">global $mysql_db;<br /></span><span class="token prefix unchanged">·</span><span class="token line">$ip = $_SERVER['REMOTE_ADDR'];<br /></span><span class="token prefix unchanged">·</span><span class="token line">if (validIp($ip)) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    if (false !== $vpsMaster = $mysql_db-&gt;select('*')-&gt;from('vps_masters')-&gt;where('vps_ip = :ip')-&gt;bindValues(['ip' =&gt; '205.209.103.70'])-&gt;row()) {<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    if (false !== $vpsMaster = $mysql_db-&gt;select('*')-&gt;from('vps_masters')-&gt;where('vps_ip = :ip')-&gt;bindValues(['ip' =&gt; $_SERVER['REMOTE_ADDR']])-&gt;row()) {<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        if (false !== $results = $mysql_db-&gt;select('*')-&gt;from('queue_log')-&gt;leftJoin('vps', 'vps_id=history_type')-&gt;where('history_section="vpsqueue" and vps_server=:id')-&gt;bindValues(['id' =&gt; $vpsMaster['vps_id']])-&gt;query()) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">            function_requirements('vps_queue_handler');<br /></span><span class="token prefix unchanged">·</span><span class="token line">            foreach ($results as $result) {</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -101,7 +101,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">$memcache-&gt;addServer('localhost', 11211);<br /></span><span class="token prefix unchanged">·</span><span class="token line">$db_config = include '/home/my/include/config/config.db.php';<br /></span><span class="token prefix unchanged">·</span><span class="token line">$mysql_db = new \Workerman\MySQL\Connection($db_config['db_host'], $db_config['db_port'], $db_config['db_user'], $db_config['db_pass'], $db_config['db_name'], 'utf8mb4');<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">$zone_db = new \Workerman\MySQL\Connection('66.45.240.70', 3306, 'zonemta', 'Z0n3mt4!', 'zonemta', 'utf8mb4');<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">$zone_db = new \Workerman\MySQL\Connection(ZONEMTA_MYSQL_HOST, ZONEMTA_MYSQL_PORT, ZONEMTA_MYSQL_USERNAME, ZONEMTA_MYSQL_PASSWORD, ZONEMTA_MYSQL_DB, 'utf8mb4');<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   $GLOBALS['log_queries'] = false;<br /></span><span class="token prefix unchanged">·</span><span class="token line">   require_once '/home/my/include/functions.inc.php';<br /></span><span class="token prefix unchanged">·</span><span class="token line">   ini_set('error_reporting', E_ALL &amp; ~E_NOTICE);</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -5330,14 +5330,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jan 2024, 12:08:50 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Jan 2024, 13:10:43 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
