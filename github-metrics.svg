@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2793" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2913" class="columns">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    45.4m added, 40.7m removed
+                                    44.6m added, 41.4m removed
                                 </div>
                             </section>
                             <section>
@@ -749,42 +749,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 17.071679293600717%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.18485085821242%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 8.912155828334638%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.973269083555685%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 3.14395495878356%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.01588102286354%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 1.611055858966251%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6221033394839663%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 1.454636865959664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.4646117357617272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 0.9218489540644459%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8376188643011067%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.048377733058454525%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.04870947330227042%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.007769970207789571%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.00782325116264663%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -4936,7 +4936,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 331k out of 126m repositories</span>
+                                    <span class="gh">ranked 331k out of 120m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 37 times</div>
                             </div>
@@ -5133,7 +5133,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 778k out of 126m repositories</span>
+                                    <span class="gh">ranked 778k out of 120m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 34 stars</div>
                             </div>
@@ -5302,7 +5302,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">detain/nusoap</span>
+                            <span class="blue space">interserver/crud</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -5310,7 +5310,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 3 Feb 2024, 03:42:34
+                            On 3 Feb 2024, 04:10:17
                         </div>
                     </section>
                 </div>
@@ -5320,17 +5320,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fixing some typos
+                            updates
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">ea75b86a</span>
-                            <span class="code">tools/wsdl2nusoap.php</span>
+                            <span class="code">f90ae6ea</span>
+                            <span class="code">src/crud/crud_pending_vps_list.php</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++3</span>
+                                <span class="snippet deletions">--3</span>
                             </span>
                         </div>
                     </section>
@@ -5338,7 +5338,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -151,7 +151,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">$this-&gt;debug('Enter loadWSDL');<br /></span><span class="token prefix unchanged">·</span><span class="token line">if (is_null($this-&gt;wsdl)) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">	$this-&gt;debug('instantiating wsdl class with doc: ' . $this-&gt;wsdlFile);<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">	$this-&gt;wsdl =&amp; new wsdl('', $this-&gt;options-&gt;proxyhost, $this-&gt;options-&gt;proxyport, $this-&gt;options-&gt;proxyusername, $this-&gt;options-&gt;proxypassword, $this-&gt;options-&gt;timeout, $this-&gt;options-&gt;response_timeout, $this-&gt;options-&gt;curl_options, $this-&gt;options-&gt;use_curl);<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">	$this-&gt;wsdl = new wsdl('', $this-&gt;options-&gt;proxyhost, $this-&gt;options-&gt;proxyport, $this-&gt;options-&gt;proxyusername, $this-&gt;options-&gt;proxypassword, $this-&gt;options-&gt;timeout, $this-&gt;options-&gt;response_timeout, $this-&gt;options-&gt;curl_options, $this-&gt;options-&gt;use_curl);<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	$this-&gt;wsdl-&gt;setCredentials($this-&gt;options-&gt;username, $this-&gt;options-&gt;password, $this-&gt;options-&gt;authtype, $this-&gt;options-&gt;certRequest);<br /></span><span class="token prefix unchanged">·</span><span class="token line">	$this-&gt;wsdl-&gt;fetchWSDL($this-&gt;wsdlFile);<br /></span><span class="token prefix unchanged">·</span><span class="token line">	$this-&gt;appendDebug($this-&gt;wsdl-&gt;getDebug());</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -14,7 +14,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">*/<br /></span><span class="token prefix unchanged">·</span><span class="token line">function crud_pending_vps_list()<br /></span><span class="token prefix unchanged">·</span><span class="token line">{<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">Crud::init("select vps.vps_id, vps_masters.vps_name, repeat_invoices_cost, vps_hostname, vps_status, services_name, vps_comment, account_value as maxmind_score, repeat_invoices_date from vps left join vps_masters on vps_server=vps_masters.vps_id left join services on services_id=vps.vps_type left join accounts on accounts.account_id=vps_custid left join accounts_ext on accounts_ext.account_id=vps_custid left join repeat_invoices on repeat_invoices_id=vps_invoice where account_key='maxmind_score' and account_status='active' and  cast(account_value as decimal) &gt;= 2.5", 'vps')<br /></span><span class="token prefix deleted">-</span><span class="token line">	-&gt;set_title(_('Pending Virtual Private Servers (VPS)'))<br /></span><span class="token prefix deleted">-</span><span class="token line">	-&gt;go();<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   Crud::init("select vps.vps_id, vps_masters.vps_name, repeat_invoices_cost, vps_hostname, vps_status, services_name, vps_comment, account_value as maxmind_score, repeat_invoices_date from vps left join vps_masters on vps_server=vps_masters.vps_id left join services on services_id=vps.vps_type left join accounts on accounts.account_id=vps_custid left join accounts_ext on accounts_ext.account_id=vps_custid left join repeat_invoices on repeat_invoices_id=vps_invoice where account_key='maxmind_score' and account_status='active' and  cast(account_value as decimal) &gt;= 2.5", 'vps')<br /></span><span class="token prefix inserted">+</span><span class="token line">       -&gt;set_title(_('Pending Virtual Private Servers (VPS)'))<br /></span><span class="token prefix inserted">+</span><span class="token line">       -&gt;go();<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -5353,14 +5353,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2024, 23:11:13 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Feb 2024, 00:09:22 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
