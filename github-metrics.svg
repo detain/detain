@@ -5023,7 +5023,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 310k out of 206m repositories</span>
+                                    <span class="gh">ranked 310k out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 41 times</div>
                             </div>
@@ -5185,7 +5185,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 630k out of 206m repositories</span>
+                                    <span class="gh">ranked 630k out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 49 stars</div>
                             </div>
@@ -5403,14 +5403,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jul 2024, 04:12:48 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Jul 2024, 05:12:10 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
