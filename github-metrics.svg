@@ -5099,7 +5099,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 63.8k out of 150m users</span>
+                                    <span class="gh">ranked 63.8k out of 151m users</span>
                                 </div>
                                 <div class="text">Published 185 public repositories</div>
                             </div>
@@ -5280,7 +5280,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 305k out of 230m repositories</span>
+                                    <span class="gh">ranked 305k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 43 times</div>
                             </div>
@@ -5373,7 +5373,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 297k out of 150m users</span>
+                                    <span class="gh">ranked 297k out of 151m users</span>
                                 </div>
                                 <div class="text">Followed by 48 users</div>
                             </div>
@@ -5442,7 +5442,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 615k out of 230m repositories</span>
+                                    <span class="gh">ranked 615k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 54 stars</div>
                             </div>
@@ -5660,14 +5660,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Dec 2024, 04:13:45 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Dec 2024, 05:13:29 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
