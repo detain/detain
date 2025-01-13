@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2727" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2671" class="columns">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            23694 Commits
+                            23696 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    38.4m added, 35.7m removed
+                                    47.3k added, 37.1k removed
                                 </div>
                             </section>
                             <section>
@@ -391,14 +391,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="182.79514074912586" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="182.79514074912586" y="0" width="103.96646016576467" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="286.76160091489055" y="0" width="68.07069051484069" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="354.8322914297312" y="0" width="45.735378416278046" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="400.5676698460092" y="0" width="37.868712000253836" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="438.4363818462631" y="0" width="8.169343385690834" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="446.6057252319539" y="0" width="6.964793336465225" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.5705185684191" y="0" width="6.429481431580847" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="182.77966867074423" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="182.77966867074423" y="0" width="103.99659542435103" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="286.77626409509526" y="0" width="68.06492890074732" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="354.8411929958426" y="0" width="45.73150729937214" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="400.57270029521476" y="0" width="37.86550673080368" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="438.43820702601846" y="0" width="8.168651919163485" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="446.60685894518195" y="0" width="6.964203825015566" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.5710627701975" y="0" width="6.428937229802534" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -4887,7 +4887,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 307k out of 230m repositories</span>
+                                    <span class="gh">ranked 307k out of 233m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 43 times</div>
                             </div>
@@ -5018,7 +5018,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 596k out of 230m repositories</span>
+                                    <span class="gh">ranked 596k out of 233m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 57 stars</div>
                             </div>
@@ -5278,7 +5278,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">c712db8d</span>
-                            <span class="code">src/Plugin.php</span>
+                            <span class="code">src/switches.php</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--1</span>
@@ -5289,7 +5289,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -74,7 +74,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">$loader-&gt;add_admin_page_requirement('ip_manager', '/../vendor/detain/ip_vlan_manager/src/ip_manager.php');<br /></span><span class="token prefix unchanged">·</span><span class="token line">$loader-&gt;add_admin_page_requirement('ipblock_viewer', '/../vendor/detain/ip_vlan_manager/src/ipblock_viewer.php');<br /></span><span class="token prefix unchanged">·</span><span class="token line">$loader-&gt;add_admin_page_requirement('portless_vlans', '/../vendor/detain/ip_vlan_manager/src/portless_vlans.php');<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">$loader-&gt;add_admin_page_requirement('switch_manager', '/../vendor/detain/ip_vlan_manager/src/switch_manager.php');<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">$loader-&gt;add_admin_page_requirement('vlan_edit_port', '/../vendor/detain/ip_vlan_manager/src/vlan_edit_port.php');<br /></span><span class="token prefix unchanged">·</span><span class="token line">$loader-&gt;add_admin_page_requirement('vlan_manager', '/../vendor/detain/ip_vlan_manager/src/vlan_manager.php');<br /></span><span class="token prefix unchanged">·</span><span class="token line">$loader-&gt;add_admin_page_requirement('vlan_port_manager', '/../vendor/detain/ip_vlan_manager/src/vlan_port_manager.php');</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,7 +7,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">* @category Networking <br /></span><span class="token prefix unchanged">·</span><span class="token line">* <br /></span><span class="token prefix unchanged">·</span><span class="token line">* TODO:<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">* - delete switch<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">* - make list of ports long<br /></span><span class="token prefix unchanged">·</span><span class="token line">*/<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -5304,14 +5304,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2025, 10:12:23 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Jan 2025, 11:14:07 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
