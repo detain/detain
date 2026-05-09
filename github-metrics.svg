@@ -3682,7 +3682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>detain/php-dup-finder</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AST-based PHP duplicate-logic detector and refactoring assistant. Finds parameterizable duplication via canonicalization, n-gram fingerprinting, bounded tree-edit-distance, and anti-unification — proposes extract-function signatures with typed parameter holes. CLI, JSON, and static-HTML reports.</div>
@@ -4410,7 +4410,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2026, 07:42:05 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 May 2026, 08:55:40 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
